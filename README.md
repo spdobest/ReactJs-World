@@ -1,6 +1,6 @@
 # ReactJs-World
 1. [Introduction](https://github.com/spdobest/ReactJs-World/blob/master/ReadMe/1.INTRODUCTION.md)
-2. [Syntax](https://github.com/spdobest/ReactJs-World/blob/master/ReadMe/1.INTRODUCTION.md) 
+2. [Syntax](https://github.com/spdobest/ReactJs-World/blob/master/ReadMe/2.SYNTAX.md) 
 3. [Installation And Setup](https://github.com/spdobest/ReactJs-World/blob/master/ReadMe/3.INSTALLATION.md)
 4. [Component](https://github.com/spdobest/ReactJs-World/blob/master/ReadMe/4.COMPONENTS.md)
 5. [Syntax](https://github.com/spdobest/ReactJs-World/blob/master/ReadMe/1.INTRODUCTION.md)
